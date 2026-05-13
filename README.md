@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ektu-beshi-bhalobasha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Ektu Beshi Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ektu-beshi-bhalobasha/) |
+| **Get License** | [Official Music Licensing for Ektu Beshi Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ektu-beshi-bhalobasha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচিন দেশে উড়াল দিল আমার মেঘের ডানা
+> আজন্ম এই প্রেমের নেশায় শুনবো না তো মানা
+> আকাশ থেকে নামলো কি ওই মায়াবী এক আলো
+> বুকের ভেতর জ্বলছে আগুন লাগছে তবু ভালো
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
