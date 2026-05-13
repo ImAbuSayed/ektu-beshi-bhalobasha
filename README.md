@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ektu-beshi-bhalobasha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ektu Beshi Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ektu-beshi-bhalobasha/) |
+| **Get License** | [Get a Licensing Quote for Ektu Beshi Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ektu-beshi-bhalobasha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `450534ffe37fb3d9f15e3933c27d3d81d8b2f8b8c786f4e0d1200bcd4981e879` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

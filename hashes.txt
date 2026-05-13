@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ektu Beshi Bhalobasha
+
+This log tracks the cryptographic history and versioning for the song **Ektu Beshi Bhalobasha** (ektu-beshi-bhalobasha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T08:30:59.946992 | `v1` | `450534ffe37fb3d9f15e3933c27d3d81d8b2f8b8c786f4e0d1200bcd4981e879` | `07c3f58d0c1d6fe3c1133e94314c1359f0146c7584331f8bb0ce45f954f909bc` | `2026-05-13_ektu-beshi-bhalobasha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
